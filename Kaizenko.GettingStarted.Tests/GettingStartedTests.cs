@@ -4,7 +4,7 @@ using System;
 namespace Kaizenko.GettingStarted.Tests
 {
   
-    public class GettingStarted
+    public class GettingStartedTests
     {
         [Test]
         public void Test()
