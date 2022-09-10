@@ -11,6 +11,5 @@ namespace Kaizenko.GettingStarted.Tests
         {
             Assert.Fail("You are all set!");
         }
-
     }
 }
