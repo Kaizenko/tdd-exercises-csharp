@@ -6,7 +6,7 @@ namespace Kaizenko.GettingStarted.Tests
   
     public class GettingStartedTests
     {
-        [Test]
+        [Test]       
         public void Test()
         {
             Assert.Fail("You are all set!");
