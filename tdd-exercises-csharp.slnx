@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Kaizenko.GettingStarted.Tests/Kaizenko.GettingStarted.Tests.csproj" />
+  <Project Path="Kaizenko.Rover.Tests/Kaizenko.Rover.Tests.csproj" />
+  <Project Path="Kaizenko.Rover/Kaizenko.Rover.csproj" />
+  <Project Path="Kaizenko.Temperature.Tests/Kaizenko.Temperature.Tests.csproj" />
+  <Project Path="Kaizenko.Temperature/Kaizenko.Temperature.csproj" />
+  <Project Path="Kaizenko.Tennis.Tests/Kaizenko.Tennis.Tests.csproj" />
+  <Project Path="Kaizenko.Tennis/Kaizenko.Tennis.csproj" />
+  <Project Path="Kaizenko.Vending.Tests/Kaizenko.Vending.Tests.csproj" />
+  <Project Path="Kaizenko.Vending/Kaizenko.Vending.csproj" />
+</Solution>
